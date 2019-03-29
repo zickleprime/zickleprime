@@ -17,7 +17,7 @@ connection, the synchronization process could take a day or more once the
 blockchain has reached a significant size.
 
 <p align="center">
-  <img src="doc/imgs/zcashd_screen.gif" height="500">
+  <img src="51M-VjFyBpL._SY450_.jpg" height="500">
 </p>
 
 #### :lock: Security Warnings
